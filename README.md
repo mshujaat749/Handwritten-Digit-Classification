@@ -1,5 +1,4 @@
-# Handwritten-Digit-Classification
-
+#Handwritten Digit Recognition
 This project implements a Convolutional Neural Network (CNN) using TensorFlow and Keras to classify handwritten digits from the MNIST dataset. It serves as an example of how deep learning can be applied to image classification tasks and can also predict digits from user-provided images.
 
 ## 📚 Overview
